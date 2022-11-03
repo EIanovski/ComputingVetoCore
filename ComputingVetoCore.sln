@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputingVetoCore", "ComputingVetoCore\ComputingVetoCore.csproj", "{1E291B17-3D83-4232-A18D-EBDA187802AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{9788032D-FBD1-4679-BCA2-2C64BB5A4AE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E291B17-3D83-4232-A18D-EBDA187802AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E291B17-3D83-4232-A18D-EBDA187802AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E291B17-3D83-4232-A18D-EBDA187802AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E291B17-3D83-4232-A18D-EBDA187802AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9788032D-FBD1-4679-BCA2-2C64BB5A4AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9788032D-FBD1-4679-BCA2-2C64BB5A4AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9788032D-FBD1-4679-BCA2-2C64BB5A4AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9788032D-FBD1-4679-BCA2-2C64BB5A4AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A593906-D6B7-4557-BD1A-1078D3438520}
+	EndGlobalSection
+EndGlobal
